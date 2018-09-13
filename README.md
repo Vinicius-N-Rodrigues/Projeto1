@@ -1,2 +1,1 @@
-# Projeto1
-aprendendo git
+Arquivo de leitura do projeto1
